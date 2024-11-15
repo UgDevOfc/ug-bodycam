@@ -1,6 +1,6 @@
 <p align="center">
 	<h1 align="center">
-		ug-dispatch
+		ug-bodycam
 	</h1>
 	<p align="center">
 		<img width="824" height="824" src="docs/logo.png">
@@ -9,7 +9,7 @@
 		UgDev Discord Server (Support Server): &nbsp; <a href="https://discord.gg/9Tp8Mx5Kct" target="_blank"><img src="https://discord.com/api/guilds/1169508725996929085/widget.png?style=shield"></img></a>
 	</h4>
 	<p align="center">
-		<b>ug-dispatch</b> is a script that implements a <b>Dispatch System</b> for your officers or public servants. With this, they can receive calls from citizens, use codes between agencies and more.
+		<b>ug-bodycam</b> is an advanced <b>Bodycam System</b> that implements a camera to all your law enforcement officers or public servants. With this, you can access to their camera videos and more.
 	</p>
   <p align="center">
 		<b>⚠️ This script has escrow enabled and it's not open-source. If you want it, you can purchase it by clicking <a href="https://ugdev.tebex.io/" target="_blank">here</a>. ⚠️</b>
@@ -22,15 +22,15 @@
 - Multi Framework (ESX OLD, ESX Legacy, QB-Core)
 - Custom UI
 - Custom Jobs
-- Dispatch Backup Codes
-- Dispatch Callouts
+- Bodycam Videos
+- Dashcam Videos
 
 ## Requirements:
 - Must have a server with ESX, ESX Legacy or QB-Core
 
 ## How to Install or Configure:
-- https://docs.ugdev.cf/fivem/ug-dispatch/installation/
-- https://docs.ugdev.cf/fivem/ug-dispatch/configuration/
+- https://docs.ugdev.x10.mx/fivem/ug-bodycam/installation/
+- https://docs.ugdev.x10.mx/fivem/ug-bodycam/configuration/
 
 ## License
 ```
